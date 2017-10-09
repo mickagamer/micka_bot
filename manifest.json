@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+
+  "name": "Micka Gamer ™ | Twitch Status",
+  "description": "Cette extension vous permet de savoir si je suis en stream ou non !",
+  "version": "0.2",
+  "author": "MickaGamer",
+  "background": {
+      "scripts": ["jquery.min.js", "background.js"]
+    },
+  "homepage_url": "http://micka.gamer.free.fr",
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "permissions": ["storage", "alarms"],
+
+  "icons": { 
+	"64": "img/mg.png" 
+  },
+
+  "browser_action": {
+    "default_icon": "img/offline.png",
+    "default_title": "Micka Gamer ™"
+  }
+}
