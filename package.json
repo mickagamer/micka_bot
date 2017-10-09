@@ -1,0 +1,15 @@
+{
+  "name": "micka_bot",
+  "version": "0.0.5",
+  "description": "Bot Twitch pour ma chaîne.",
+  "main": "micka_bot.js",
+  "dependencies": {
+    "tmi.js": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mickagamer_",
+  "license": "ISC"
+}
