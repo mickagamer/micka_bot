@@ -10,7 +10,6 @@ ______________________________________________________________________
    - cd desktop
    - cd micka_bot (en l'occurence le dossier pour le bot)
    - npm i (pour télécharger le package)
-   - relancer en quittant l'invite de commande
    - node micka_bot.js (pour lancer le bot)
 
 3/ Bien évidement vous pouvez donner n'imprte quelle nom pour votre bot et le configurer à votre guise ! Il n'est pas encore tout à fais
